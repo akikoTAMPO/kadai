@@ -1,0 +1,27 @@
+/* ここから下に記載していく */
+
+html {
+    font-size: 62.5%;
+    /* 16px x 62.5% = 10px */
+    font-size: 1.6rem;
+    color: #62768f;
+}
+main{
+    width: 900px;
+    margin: auto;
+    background-color: #f4e8d5;
+}
+.speech_area{
+    height: 50px;
+    
+}
+.santa_area{
+    height: 200px;
+    background-color: #f4d9d5;
+    display: flex;
+}
+.user_area{
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
